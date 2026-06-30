@@ -1,13 +1,22 @@
 👋 Hi I’m Iryna Viust
-Junior Fullstack Developer | React | Node.js 
+Junior Frontend Developer | React | JavaScript
 
-💻 Frontend Developer focused on building responsive web applications using HTML, CSS, JavaScript, and React.
-I have practical experience from personal and team projects, including an online dessert shop with product categories and ordering functionality, and a coffee shop website with design, reviews, and location features.
-Experienced with REST API integration, responsive design, and Git-based workflows.
-Currently learning Node.js and expanding my knowledge of modern fullstack web development.
+💻 Frontend Developer with practical experience in building responsive web applications using HTML, CSS, JavaScript, and React.  
+Experienced in REST API integration, responsive design, and Git-based workflows.  
+Currently learning Node.js and expanding into fullstack development. 
 
 🧰 Tech Stack  
-JavaScript | TypeScript | Node.js | React | Next.js
+
+## Frontend
+![HTML5](https://img.shields.io/badge/HTML5-ffffff?style=for-the-badge&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-ffffff?style=for-the-badge&logo=css3&logoColor=1572B6)
+![JavaScript](https://img.shields.io/badge/JavaScript-ffffff?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![React](https://img.shields.io/badge/React-ffffff?style=for-the-badge&logo=react&logoColor=61DAFB)
+![REST API](https://img.shields.io/badge/REST_API-ffffff?style=for-the-badge&logo=api&logoColor=000000)
+![Git](https://img.shields.io/badge/Git-ffffff?style=for-the-badge&logo=git&logoColor=F05032)
+
+## Backend (learning)
+![Node.js](https://img.shields.io/badge/Node.js-ffffff?style=for-the-badge&logo=node.js&logoColor=339933)
 
 💻Featured Projects  
  
@@ -23,6 +32,8 @@ JavaScript | TypeScript | Node.js | React | Next.js
 📫 How to reach me:  
 
 [LinkedIn](https://www.linkedin.com/in/iryna-viust/) | [Telegram](https://t.me/IrinaV_1I) | [Email](mailto:vyustirina@gmail.com)
+
+
 <!--
 
 
