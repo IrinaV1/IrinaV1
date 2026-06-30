@@ -11,10 +11,15 @@ JavaScript | TypeScript | Node.js | React | Next.js
 
 💻Featured Projects  
  
-- [Coffee-Joy](https://anastasiia0711-p.github.io/DevMriya/) – a responsive landing page designed to promote a coffee shop by presenting its menu, customer reviews, location, and cafe atmosphere. Developed a responsive footer with section navigation, social media links, and logo integration.
+- [Coffee-Joy](https://anastasiia0711-p.github.io/DevMriya/) – a responsive landing page for a coffee shop. Developed a responsive footer with section navigation, clickable social media links, and logo integration. Ensured the layout was fully responsive and provided seamless navigation across different screen sizes.
 
-- [Sweet-Workshop](https://vadymhromyk.github.io/project-codex133/) – is an online dessert ordering web application. Developed a responsive UI with dynamic product rendering, category filtering, and pagination using REST API integration.
-  
+- [Sweet-Workshop](https://vadymhromyk.github.io/project-codex133/) – is an online dessert ordering web application built with React. Contributed to developing a responsive user interface, implementing dynamic product rendering from a REST API, category filtering, and pagination. Focused on creating adaptive layouts that provide a seamless experience across desktop, tablet, and mobile devices.
+
+🗣️ Languages
+
+![English](https://img.shields.io/badge/English-A2-green?style=flat-square)
+![Ukrainian](https://img.shields.io/badge/Ukrainian-Native-blue?style=flat-square)
+
 📫 How to reach me:  
 
 [LinkedIn](https://www.linkedin.com/in/iryna-viust/) | [Telegram](https://t.me/IrinaV_1I) | [Email](mailto:vyustirina@gmail.com)
