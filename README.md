@@ -1,7 +1,16 @@
-## Hi there 👋
+👋 Hi I’m Iryna Viust
+Junior Fullstack Developer | React | Node.js 
+
+💻 Frontend Developer focused on building responsive web applications using HTML, CSS, JavaScript, and React.
+I have practical experience from personal and team projects, including an online dessert shop with product categories and ordering functionality, and a coffee shop website with design, reviews, and location features.
+Experienced with REST API integration, responsive design, and Git-based workflows.
+Currently learning Node.js and expanding my knowledge of modern fullstack web development.
+
+🧰 Tech Stack  
+JavaScript | TypeScript | Node.js | React | Next.js
 
 <!--
-**IrinaV1/IrinaV1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
