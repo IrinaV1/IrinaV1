@@ -15,7 +15,9 @@ JavaScript | TypeScript | Node.js | React | Next.js
 
 - [Sweet-Workshop](https://vadymhromyk.github.io/project-codex133/) – is an online dessert ordering web application. Developed a responsive UI with dynamic product rendering, category filtering, and pagination using REST API integration.
   
+📫 How to reach me:  
 
+[LinkedIn](https://www.linkedin.com/in/iryna-viust/) | [Telegram](https://t.me/IrinaV_1I) | [Email](mailto:vyustirina@gmail.com)
 <!--
 
 
