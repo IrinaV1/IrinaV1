@@ -9,6 +9,13 @@ Currently learning Node.js and expanding my knowledge of modern fullstack web de
 🧰 Tech Stack  
 JavaScript | TypeScript | Node.js | React | Next.js
 
+💻Featured Projects  
+ 
+- [Coffee-Joy](https://anastasiia0711-p.github.io/DevMriya/) – a responsive landing page designed to promote a coffee shop by presenting its menu, customer reviews, location, and cafe atmosphere. Developed a responsive footer with section navigation, social media links, and logo integration.
+
+- [Sweet-Workshop](https://vadymhromyk.github.io/project-codex133/) – is an online dessert ordering web application. Developed a responsive UI with dynamic product rendering, category filtering, and pagination using REST API integration.
+  
+
 <!--
 
 
