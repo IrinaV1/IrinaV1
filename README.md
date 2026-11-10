@@ -48,7 +48,9 @@ Writing clean, maintainable code
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 💻**Featured Projects** 
- 
+ - [DiscoveryUA](https://github.com/AntoniiViazovskyi/DiscoveryUA_FS) – a team-developed web application for discovering natural attractions in Ukraine. Built with Next.js, React, and TypeScript. The application includes a location catalog with search, filtering, sorting, pagination, detailed location pages, user authentication, personal profiles, and reviews.
+  My responsibilities included developing the `LocationInfoBlock` and `PopularLocationsBlock` components, implementing the location details page, and integrating GET API requests for the locations catalog, including search, filtering, sorting, and pagination.
+
 - [Coffee-Joy](https://anastasiia0711-p.github.io/DevMriya/) – a responsive landing page for a coffee shop. Developed a responsive footer with section navigation, clickable social media links, and logo integration. Ensured the layout was fully responsive and provided seamless navigation across different screen sizes.
 
 - [Sweet-Workshop](https://vadymhromyk.github.io/project-codex133/) – is an online dessert ordering web application built with React. Contributed to developing a responsive user interface, implementing dynamic product rendering from a REST API, category filtering, and pagination. Focused on creating adaptive layouts that provide a seamless experience across desktop, tablet, and mobile devices.
